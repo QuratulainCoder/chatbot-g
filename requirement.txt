@@ -1,0 +1,6 @@
+scikit-learn
+nltk
+SpeechRecognition
+pyttsx3
+PyAudio
+googletrans==4.0.0-rc1
